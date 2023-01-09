@@ -23,7 +23,7 @@ I'm a 2nd-year student at Autonomous University of Ciudad Juárez, Universidad A
 
 - 🔍 Take a look at my projects on [**GitHub**](https://github.com/00lar)!.
 
-- 📫 How to reach me: **melvinaguilarhdz@gmail.com**.
+- 📫 How to reach me: **eduardani84@gmail.com**.
 
 - 💬 Ask me about **HTML and CSS**.
 
