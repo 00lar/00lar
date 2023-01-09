@@ -1,6 +1,6 @@
 <!-- Banner-->
 
-![Banner](https://user-images.githubusercontent.com/90595158/206069128-50614de1-6ac0-40ac-9b0c-395281c1172d.png)
+![Banner](https://i.postimg.cc/YSC2mrgF/Yellow-Modern-Presentation.jpg)
 
 <p align="center">
 I'm a 2nd-year student at Autonomous University of Ciudad Juárez, Universidad Autónoma de Ciudad Juárez (UACJ). My favorite things include learning about technology 💻, playing video games 🎮, and eating pizza 🍕. I look forward to learning new skills and adding them to my list.  
