@@ -19,9 +19,9 @@ I'm a 2nd-year student at Autonomous University of Ciudad Juárez, Universidad A
 
 - 🔭 I’m currently studying on **becoming a software engineer**.
 
-- 🌱 I’m currently learning **React and Node.js**.
+- 🌱 I’m currently learning **React**.
 
-- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/MelvinAguilar)!.
+- 🔍 Take a look at my projects on [**GitHub**](https://github.com/00lar)!.
 
 - 📫 How to reach me: **melvinaguilarhdz@gmail.com**.
 
@@ -38,7 +38,7 @@ I'm a 2nd-year student at Autonomous University of Ciudad Juárez, Universidad A
 ## Goals
 
 - 📖 Improve my skills in **JavaScript**.
-- 📖 Learn more about **React** and **Node.js**.
+- 📖 Learn more about **React** 
 - 📖 Create my own portfolio website.
 
 #
@@ -49,10 +49,8 @@ I'm a 2nd-year student at Autonomous University of Ciudad Juárez, Universidad A
 <div align = "center">
   
 [![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:melvinaguilarhdz@gmail.com)](mailto:melvinaguilarhdz@gmail.com)&nbsp;
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/MelvinAguilar)](https://www.frontendmentor.io/profile/MelvinAguilar)&nbsp;
-[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/melvinhdev)](https://codepen.io/melvinhdev)&nbsp;
-[![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/melvinaguilar)](https://linktr.ee/melvinaguilar)&nbsp;
-[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/melvinaguilar)](https://www.freecodecamp.org/melvinaguilar)&nbsp;
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/MelvinAguilar)](https://www.frontendmentor.io/profile/00lar)&nbsp;
+
 
 In construction: &nbsp; [![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvin-aguilar-dev)](https://www.linkedin.com/in/melvin-aguilar-dev)
 
