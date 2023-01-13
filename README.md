@@ -52,7 +52,7 @@ I'm a 2nd-year student at Autonomous University of Ciudad Juárez, Universidad A
 
 
 
-In construction: &nbsp; [![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvin-aguilar-dev)](https://www.linkedin.com/in/melvin-aguilar-dev)
+In construction: &nbsp; [![Linkedin: Eduardo Esqueda](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/melvin-aguilar-dev)](https://www.linkedin.com/in/melvin-aguilar-dev](https://www.linkedin.com/in/eduardo-esqueda-145612227/))
 
 </div>
 
